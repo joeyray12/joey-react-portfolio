@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# React Portfolio 
 
-## Getting Started
+## Screenshots
 
-First, run the development server:
+Netlify:<img width="960" alt="2024-03-19" src="https://github.com/joeyray12/joey-react-portfolio/assets/145872256/e86fc450-0918-4cc1-9861-f9d5441ef6ad">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Description
+This is a portfolio of my work throughout the coding bootcamp, you can find several different projects that I have worked on in the portfolio section along with my contact information. 
+## Deployed Application URL
+https://github.com/joeyray12/text-editor
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Heroku: https://joey-raymond-react-652a7f23bac4.herokuapp.com/#portfolio
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This site is also deployed with Netlify, but I prefer heroku even though Netlify allows you the option to have your site updated in real time. 
 
-## Learn More
+Netlify deployment: https://main--strong-swan-f31de8.netlify.app/
 
-To learn more about Next.js, take a look at the following resources:
+Screenshot of successful deployment: <img width="960" alt="2024-03-19" src="https://github.com/joeyray12/joey-react-portfolio/assets/145872256/e86fc450-0918-4cc1-9861-f9d5441ef6ad">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Table of Contents
+* [Features](#features)
+* [Languages & Dependencies](#languagesanddependencies)
+* [How to Use This Application](#HowtoUseThisApplication)
+* [Contributors](#contributors)
+* [Testing](#testing)
+* [Questions](#questions)
+## Features
+This app can be used to be updated over time with any new projects or updates to my resume that I may have
+## Languages & Dependencies
+ 
+## How to Use This Application:
+This program can be directly installed from the Heroku link: https://joey-raymond-react-652a7f23bac4.herokuapp.com/#portfolio
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Questions
+Please send your questions [here](mailto:joeyraymond12497@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/joeyray12](https://github.com/joeyray12).
