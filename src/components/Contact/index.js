@@ -57,12 +57,13 @@ function Contact() {
       </div>
 
       <div className="contact-info">
+      
         <div>
           <h3>Hello {userName}</h3>
           <p>Want to get into contact?</p>
           <address>
-            Manchester NH <br />
-            </a>
+            Manchester, NH <br />
+
             <br />
             E:{" "}
             <a href="mailto://joeyraymond12@yahoo.com">
